@@ -1,0 +1,36 @@
+.heading {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.name {
+    font-size: 20px;
+    padding-left: 340px;
+    margin-bottom: 50px;
+}
+
+.name input{
+    width: 50px;
+}
+
+.name #self-information {
+    height: 200px;
+}
+
+.name #self-information-label {
+    text-align: left;
+}
+
+.exercise {
+    padding-left: 340px;
+}
+
+.exercise #paragraph {
+    float: left;
+}
+
+.exercise label {
+    float: right;
+    align-self: baseline;
+}
